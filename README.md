@@ -33,4 +33,5 @@ lowres, bad anatomy, bad hands, text, error, missing fingers, bad feet, extra di
 
 ## Credits
 https://huggingface.co/spaces/akhaliq/anything-v3.0
+
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/4516
