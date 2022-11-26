@@ -1,4 +1,4 @@
-# AnythingV3.0 Diffusion Model
+# Collab for AnythingV3.0 Diffusion Model
 
 Welcome to Anything V3 - a latent diffusion model for weebs. This model is intended to produce high-quality, highly detailed anime style with just a few prompts. Like other anime-style Stable Diffusion models, it also supports danbooru tags to generate images.
 
