@@ -13,6 +13,7 @@ I made this collab for the purpose of running a few tests, and the queue times o
 Test it for yourself using this google collab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MahdeenSky/AnythingV3.0-WebUI/blob/main/AnythingV3.ipynb)
 
+Make sure you've changed the runtime type in the collab, and select the hardware accelerator of "GPU" otherwise it will not work.
 Run each cell in the notebook, until you get a public URL from the last cell.
 <br><br>
 <img src="https://i.imgur.com/DQoy6aS.png"></img>
