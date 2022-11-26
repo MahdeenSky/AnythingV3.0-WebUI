@@ -6,6 +6,15 @@ e.g. 1girl, white hair, golden eyes, beautiful eyes, detail, flower meadow, cumu
 
 Ran using Gradio WebUI
 
+## Examples Compared with NovelAI
+
+[Comparison 1](https://user-images.githubusercontent.com/1236582/201123592-e9018ce6-b446-4f25-87a5-5a8dacee05e8.png)
+
+[Comparison 2](https://user-images.githubusercontent.com/1236582/201123915-ed41e734-f5fc-4040-947d-0aa8b9920e36.png)
+
+[Comparison Graph](https://user-images.githubusercontent.com/1236582/201127478-c2e9b844-db4d-4192-8524-5e24a05dda4c.jpg)
+
+
 ## Disclaimer
 I made this collab for the purpose of running a few tests, and the queue times on hugging space is frustrating, and so using this google collab i was able to generate an image with an average of 7 seconds.
 
