@@ -12,7 +12,7 @@ Ran using Gradio WebUI
 
 [Comparison 2](https://user-images.githubusercontent.com/1236582/201123915-ed41e734-f5fc-4040-947d-0aa8b9920e36.png)
 
-[Comparison Graph](https://user-images.githubusercontent.com/1236582/201127478-c2e9b844-db4d-4192-8524-5e24a05dda4c.jpg)
+[Comparison Table](https://user-images.githubusercontent.com/1236582/201127478-c2e9b844-db4d-4192-8524-5e24a05dda4c.jpg)
 
 
 ## Disclaimer
