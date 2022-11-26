@@ -27,5 +27,9 @@ Run each cell in the notebook, until you get a public URL from the last cell.
 <br><br>
 <img src="https://i.imgur.com/DQoy6aS.png"></img>
 
+Recommended Negative Prompt: 
+
+lowres, bad anatomy, bad hands, text, error, missing fingers, bad feet, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name
+
 ## Credits
 https://huggingface.co/spaces/akhaliq/anything-v3.0
