@@ -6,11 +6,15 @@ e.g. 1girl, white hair, golden eyes, beautiful eyes, detail, flower meadow, cumu
 
 Ran using Gradio WebUI
 
+## Disclaimer
+I made this collab for the purpose of running a few tests, and the queue times on hugging space is frustrating, and so using this google collab i was able to generate an image with an average of 7 seconds.
+
 ## Setup
 Test it for yourself using this google collab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MahdeenSky/AnythingV3.0-WebUI/blob/main/AnythingV3.ipynb)
 
 Run each cell in the notebook, until you get a public URL from the last cell.
+<br><br>
 <img src="https://i.imgur.com/DQoy6aS.png"></img>
 
 ## Credits
