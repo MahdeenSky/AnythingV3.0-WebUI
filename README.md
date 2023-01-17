@@ -16,7 +16,7 @@ Ran using Gradio WebUI
 
 
 ## Disclaimer
-I made this collab for the purpose of running a few tests, and the queue times on hugging space is frustrating, and so using this google collab i was able to generate an image with an average of 7 seconds.
+I made this collab for the purpose of running a few tests, and the queue times on hugging space is frustrating, and so using this google collab i was able to generate an image in a few seconds.
 
 ## Setup
 Test it for yourself using this google collab:
